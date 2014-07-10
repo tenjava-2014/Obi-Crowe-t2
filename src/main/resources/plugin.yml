@@ -1,0 +1,3 @@
+name: Obi-Crowe-t2
+main: com.tenjava.entries.Obi_Crowe.t2.TenJava
+version: '${project.version}'
